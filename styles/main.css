@@ -33,9 +33,10 @@ h1 {
 }
 
 h2 {
-    border-bottom: 0.1em solid #66D7D1;
     padding: 0.75em;
+    border-bottom: 0.1em solid #397e7b;
     margin: 1.6em 0;
+    font-style: italic;
     text-shadow: 0.02em 0.04em #A11305;
 }
 
@@ -46,7 +47,7 @@ section p {
 }
 
 .project {
-    background-color: #403D58;
+    background-color: #3d5841;
     color: #F2EFEA;
     padding: 0.5em 2em;
     border-radius: 0.5em;
@@ -54,10 +55,10 @@ section p {
 }
 
 .project h3 {
-    color: #DBD563;
+    color: #bba9e8;
     margin-top: 1rem;
     margin-left: 2em;
     margin-right: 2em;
-    border-bottom: 0.1em solid #a6a57a;
+    border-bottom: 0.1em solid #bba9e8;
     padding-bottom: 0.5em;
 }
